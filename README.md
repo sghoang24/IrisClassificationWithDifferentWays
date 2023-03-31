@@ -1,7 +1,7 @@
 # IrisClassificationWithDifferentWays
 
 ## Description:
-In this repository, I did classfication of Iris Flowers with 4 different ways
+In this repository, I did classfication of Iris Flowers with 4 different ways.
 Description about data: iris.csv
 - 4 features: "sepal.length", "sepal.width", "petal.length", "petal.width"
 - 3 classes: "Setosa", "Versicolor", "Virginica"
